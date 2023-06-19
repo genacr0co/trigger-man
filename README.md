@@ -59,3 +59,6 @@
     console.log(event.detail.message)
   });
   ```
+
+### 3. Examples
+
