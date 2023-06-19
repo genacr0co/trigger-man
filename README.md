@@ -16,7 +16,7 @@
           target_element.current.dispatchEvent(new CustomEvent(type, {detail}));
       } else {
           if (typeof window !== 'undefined') {
-              window.dispatchEvent(new CustomEvent('alert', {detail}));
+              window.dispatchEvent(new CustomEvent(type, {detail}));
           }
       }
   }
