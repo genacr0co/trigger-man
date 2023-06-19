@@ -62,5 +62,5 @@
 
 ### 3. Examples
 
-![2023-06-19 18-58-47](https://github.com/genacr0co/trigger-man/assets/83674229/5b72b243-1aa8-449d-8d88-984d5060393f)
 
+![2023-06-19 19-17-14](https://github.com/genacr0co/trigger-man/assets/83674229/aa4d1824-d6b1-4a32-980f-adf8a2abd7fe)
