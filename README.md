@@ -2,6 +2,9 @@
 
 ## Documentation.
 
+This is Trigger-man React/TypeScript Library.
+ It is needed for generating events to invoke functions or transmit data between components that aren't directly linked without using props.
+
 ### 1. Create Trigger Function
 
 + Function Body
